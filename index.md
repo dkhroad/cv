@@ -51,7 +51,7 @@ __HP Inc, Instant Ink Division, Vancouver WA - Senior Software Engineer__
 __HP Inc, InkJet & Web Solutions, Vancouver WA - Senior Software Engineer__
 
 * Designed and developed customer facing web service components for HP Savings Center that enabled selecting and printing 
-  more than million coupons per month as part of 4 members team.
+  more than million coupons per month.
 * Implemented custom OAuth strategy for Devise to enable Single Sign On (SSO) from HP Portal.
 * Architected, implemented and automated HP Savings Center services deployment to HP's private cloud. 
 * Successfully led the effort to transition the team to Test Driven Development, Continuous Integration
@@ -116,7 +116,7 @@ __Hewlett-Packard, Unix Development Lab, Fort Collins, Colorado - Software Contr
 `1992-1993`
 __Silicon Automation Systems, Bangalore, India -- Software Engineer__
 
-* Developed a compiler front end for UDL/I hardware descripton language 
+* Developed a compiler front end for UDL/I hardware descripton language.
 
 
 ## Education
