@@ -84,40 +84,8 @@ __Hewlett-Packard, Digital Printing Technologies, Vancouver WA - Software Design
 * Responsible for identifying and removing firmware performance bottlenecks in order to achieve system
   throughput goals. 
 
-`1999-2002`
-__Hewlett-Packard, Embedded Software Operations Division, Palto Alto CA - Software Design Engineer__
 
-* Designed and developed authentication and authorization mechanism using Java based SSL libraries for VxWorks based embedded devices.
-* Ported ChaiVM (Java Virtual Machine) and ChaiServer (Embedded Web Server) to VxWorks based embedded devices.
-* Designed and Implemented Java API layer to Qualcomm's BREW platform for mobile devices. 
-
-`1998-1999`
-__Hewlett-Packard, California Semiconductor Test Division, Santa Clara CA - Software Design Engineer__
-
-* Designed, developed, tested enhancements to CORBA, based client/server C++ application to test high speed memory devices.
-
-`1995-1998`
-__Hewlett-Packard (Canada), Waterloo, Ontario - Software Design Engineer__
-
-* Designed and developed a lightweight configuration management user interface widgets for VxWorks based HP embedded devices.
-* Developed Tcl/Tk style scripting language to quickly develop new configuration screens.
-* Ported Netscape based Navio Navigator web browser to VxWorks based HP embedded devices.
-
-`1994`
-__IBM (Canada), Software Solutions Lab, Toronto, Ontario, Canada - Software Test Contractor__
-
-* Functional Verification Testing of OSF Distributed Computing Environment port to MVS/ESA platform.
-
-`1993-1994`
-__Hewlett-Packard, Unix Development Lab, Fort Collins, Colorado - Software Contractor__
-
-* Ported DCE based HP OpenView Software Distributor application from HP-UX to SunOS and AIX operating systems. 
-
-`1992-1993`
-__Silicon Automation Systems, Bangalore, India -- Software Engineer__
-
-* Developed a compiler front end for UDL/I hardware descripton language 
-
+`Additional experience details available on request.`
 
 ## Education
 
