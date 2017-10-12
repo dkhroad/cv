@@ -14,7 +14,7 @@ Senior Software Engineer/Full Stack Web Services & Solutions Developer
 </div>
 ## Summary 
 Over 6 years of experience developing scalable and fault tolerant 
-web services, 13+ years of experience firmware development for embedded devices on Real Time Operating Systems.
+web services, 13+ years of experience in firmware development for embedded devices on Real Time Operating Systems.
 Polyglot programmer with experience in cloud native and microservices architectures, Agile Principles, DevOps, CI/CD and Test Driven Development. 
 
 ## Skills
