@@ -23,7 +23,7 @@ __Frameworks & Tools:__
 Rails, RSpec, Chef, Vagrant, Capistrano, Docker, Kubernetes, Splunk, AWS, Google Cloud Platform, Jenkins, Git
 
 __Programming Languages:__
-Ruby, C++, C, Javascript, Bash/Zsh, Advanced Beginner in Golang, Elixir/OTP
+Ruby, C++, C, Javascript, Python, Java, Bash/Zsh, Advanced Beginner in Golang, Elixir/OTP
 
 __Operating Systems:__
 Linux, VxWorks, INTEGRITY 
@@ -46,7 +46,10 @@ __HP Inc, Instant Ink Division, Vancouver WA - Senior Software Engineer__
    issues between various application components and gems.
 *  Profiled and identified performance bottlenecks in the test suites to avoid linear runtime degradation  
 *  Designed a scalable Jenkins cluster with Docker 
-     
+*  Mentored junior developers enabling them to become proficient in software engineering principles, practices
+   (software design, refactoring, performance, problem solving approaches) and designing solutions that span across
+   multiple programming languages and infrastructures. 
+   
 `2012-2014`
 __HP Inc, InkJet & Web Solutions, Vancouver WA - Senior Software Engineer__
 
@@ -64,8 +67,8 @@ __Hewlett-Packard, InkJet & Web Solutions, Vancouver WA - Senior Software Engine
 
 * Designed and developed a hybrid (native & Javscript) framework that allowed legacy XML based print 
   applications to run in Webkit based embedded browser on Embedded Linux, Android and WebOS based printers.
-* Developed and supported HP printers specific Javascript libraries and frameworks for developing HP 
-  printer applications. 
+* Developed and supported HP printers specific Javascript libraries and frameworks for developing embedded  
+  printers applications. 
 * Designed, developed and deployed Ruby on Rails based web service that pushed scheduled user selected 
   content (news,sports) delivery to web enabled HP printers. 
 
