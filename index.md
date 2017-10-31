@@ -5,7 +5,7 @@ title: Devinder Khroad
 
 # Devinder Khroad
 
-Senior Software Engineer/Full Stack Web Services & Solutions Developer
+Senior Software Engineer/Cloud & DevOps Solutions Architect
 <div id="webaddress">
 <a href="https://dkhroad.github.io">Web</a>
 | <a href="https://www.linkedin.com/in/devinderkhroad">LinkedIn</a>
@@ -13,8 +13,8 @@ Senior Software Engineer/Full Stack Web Services & Solutions Developer
 | <a href="mailto:khroadd@gmail.com">Email</a>
 </div>
 ## Summary 
-Over 6 years of experience developing scalable and fault tolerant 
-web services, 13+ years of experience in firmware development for embedded devices on Real Time Operating Systems.
+Over 6 years of experience designing and developing scalable and fault tolerant 
+web services, 13+ years of experience in firmware design and development for embedded devices on Real Time Operating Systems.
 Polyglot programmer with experience in cloud native and microservices architectures, Agile Principles, DevOps, CI/CD and Test Driven Development. 
 
 ## Skills
