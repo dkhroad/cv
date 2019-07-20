@@ -79,7 +79,8 @@ code {
 
 p code {
 	position: absolute;
-	left: -12%;
+	right: -12%;
+	text-align: right;
 }
 
 
@@ -175,7 +176,7 @@ a:hover {
 }
 
 em {
-	font-weight: bold;
+	/*font-weight: bold;*/
 	font-style: italic;
 }
 

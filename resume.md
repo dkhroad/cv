@@ -32,15 +32,15 @@ __Databases:__
 MySQL, Vertica, PostgreSQL, Redis
 
 ## Experience 
-`Sep 2017 - Present`
-__ TechDNA, Senior Technical Consultant__
+`2017-Present`
+__TechDNA, Senior Technical Consultant__
 
 * Conduct technical due diligence, evaluate technology stack, architecture, code quality and software
-  engineering practices of acquistion targets in M&A context.
+  engineering practices of acquisition targets in M&A context.
 * Understand, quantify technology risks related to architecture, integration, scale, cloud adoption, GDPR,
   and privacy.
 
-`Dec 2015 - Apr 2016`
+`Dec 2015-Apr 2016`
 __HP Inc, 3D Printing Division, Vancouver WA - Senior Software Engineer__
 
 * Researched, prototyped, and integrated software and firmware for HP's 3D Printing Solutions. 

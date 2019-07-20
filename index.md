@@ -13,9 +13,9 @@ Senior Software Engineer/Cloud & DevOps Solutions Architect
 | <a href="mailto:khroadd@gmail.com">Email</a>
 </div>
 ## Summary 
-Over 6 years of experience designing and developing scalable and fault tolerant 
+Over 7 years of experience designing and developing scalable and fault tolerant 
 web services, 13+ years of experience in firmware design and development for embedded devices on Real Time Operating Systems.
-Polyglot programmer with experience in cloud native and microservices architectures, Agile Principles, DevOps, CI/CD and Test Driven Development. 
+Polyglot programmer with experience in cloud-native and microservices architectures, Agile Principles, DevOps, CI/CD, and Test Driven Development. 
 
 ## Skills
 
@@ -23,7 +23,7 @@ __Frameworks & Tools:__
 Rails, RSpec, Chef, Vagrant, Capistrano, Docker, Kubernetes, Splunk, AWS, Google Cloud Platform, Jenkins, Git
 
 __Programming Languages:__
-Ruby, C++, C, Javascript, Python, Java, Bash/Zsh, Advanced Beginner in Golang, Elixir/OTP
+Ruby, C++, C, Javascript, Python, Java, Bash/Zsh 
 
 __Operating Systems:__
 Linux, VxWorks, INTEGRITY 
@@ -32,33 +32,46 @@ __Databases:__
 MySQL, Vertica, PostgreSQL, Redis
 
 ## Experience 
+`Sep 2017-Present`
+**Senior Technical Consultant**, *Tech DNA*
 
-`2014-2016`
+* Conduct technical due diligence, evaluate technology stack, architecture, code quality, and software
+  engineering practices of acquisition targets in M&A context.
+* Understand, quantify technology risks related to architecture, integration, scale, cloud adoption, GDPR,
+  and privacy.
+
+`Dec 2015-Apr 2016`
+__Senior Software Engineer__, *HP Inc, 3D Printing Division*, Vancouver WA
+
+* Researched, prototyped, and integrated software and firmware for HP's 3D Printing Solutions. 
+
+
+`2014-2015`
 __HP Inc, Instant Ink Division, Vancouver WA - Senior Software Engineer__
 
-*  Architected, implemented and deployed scalable, fault tolerant, zero downtime OLAP solution to replicate
-   application relational databases (MySQL) to columnar database (Vertica).
+*  Architected, implemented and deployed scalable, fault-tolerant, zero downtime OLAP solution to replicate
+   application relational databases (MySQL) to a columnar database (Vertica).
 *  Designed, developed, deployed web services for automated ink replacement services using Agile principles, TDD, CI/CD. 
 *  Implemented services endpoint API versioning for Rails framework based components
 *  Identified, isolated and fixed application performance bottleneck by continuously monitoring application
    logs and metrics. 
-*  Responsible for upgrading Ruby and Rails, migrating application to newer version of Rails, resolving version compatibility
+*  Responsible for upgrading Ruby and Rails, migrating application to a newer version of Rails, resolving version compatibility
    issues between various application components and gems.
 *  Profiled and identified performance bottlenecks in the test suites to avoid linear runtime degradation  
 *  Designed a scalable Jenkins cluster with Docker 
 *  Mentored junior developers enabling them to become proficient in software engineering principles, practices
-   (software design, refactoring, performance, problem solving approaches) and designing solutions that span across
+   (software design, refactoring, performance, problem-solving approaches) and designing solutions that span across
    multiple programming languages and infrastructures. 
    
 `2012-2014`
 __HP Inc, InkJet & Web Solutions, Vancouver WA - Senior Software Engineer__
 
 * Designed and developed customer facing web service components for HP Savings Center that enabled selecting and printing 
-  more than million coupons per month.
-* Implemented custom OAuth strategy for Devise to enable Single Sign On (SSO) from HP Portal.
+  more than a million coupons per month.
+* Implemented custom OAuth strategy for Devise to enable Single Sign-On (SSO) from HP Portal.
 * Architected, implemented and automated HP Savings Center services deployment to HP's private cloud. 
 * Successfully led the effort to transition the team to Test Driven Development, Continuous Integration
-  weekly deployments, constant error and performance monitoring. Set up the necessary infrastructure and provided 
+  weekly deployments, continual error and performance monitoring. Set up the necessary infrastructure and provided 
   support.
 
 
@@ -70,7 +83,7 @@ __Hewlett-Packard, InkJet & Web Solutions, Vancouver WA - Senior Software Engine
 * Developed and supported HP printers specific Javascript libraries and frameworks for developing embedded  
   printers applications. 
 * Designed, developed and deployed Ruby on Rails based web service that pushed scheduled user selected 
-  content (news,sports) delivery to web enabled HP printers. 
+  content (news, sports) delivery to web enabled HP printers. 
 
 
 `2002-2009`
@@ -79,7 +92,7 @@ __Hewlett-Packard, Digital Printing Technologies, Vancouver WA - Software Design
 * Designed, developed and maintained a portable backward compatible operating system abstraction 
   layer for INTEGRITY RTOS.
 * Responsible for troubleshooting OS and kernel issues and resolving defects related to application
-  hangs, deadlocks,race conditions, detecting and fixing memory leaks.
+  hangs, deadlocks, race conditions, detecting and fixing memory leaks.
 * Designed and implemented a portable "Virtual Interrupt Service" routine mechanism to process interrupts
   from various ASICS in the virtual address space.
 * Implemented devices drivers for various digital imaging ASICS.
@@ -88,9 +101,9 @@ __Hewlett-Packard, Digital Printing Technologies, Vancouver WA - Software Design
   throughput goals. 
 
 `1999-2002`
-__Hewlett-Packard, Embedded Software Operations Division, Palto Alto CA - Software Design Engineer__
+__Hewlett-Packard, Embedded Software Operations Division, Palo Alto CA - Software Design Engineer__
 
-* Designed and developed authentication and authorization mechanism using Java based SSL libraries for VxWorks based embedded devices.
+* Designed and developed an authentication and authorization mechanism using Java based SSL libraries for VxWorks based embedded devices.
 * Ported ChaiVM (Java Virtual Machine) and ChaiServer (Embedded Web Server) to VxWorks based embedded devices.
 * Designed and Implemented Java API layer to Qualcomm's BREW platform for mobile devices. 
 
