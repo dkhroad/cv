@@ -41,13 +41,14 @@ MySQL, Vertica, PostgreSQL, Redis
   and privacy.
 
 `Dec 2015-Apr 2016`
-__Senior Software Engineer__, *HP Inc, 3D Printing Division*, Vancouver WA
+__Senior Software Engineer__, *3D Printing Division, HP Inc*, Vancouver WA
 
 * Researched, prototyped, and integrated software and firmware for HP's 3D Printing Solutions. 
 
 
 `2014-2015`
-__HP Inc, Instant Ink Division, Vancouver WA - Senior Software Engineer__
+
+__Senior Software Engineer__, *Instant Ink Division, HP Inc*, Vancouver WA
 
 *  Architected, implemented and deployed scalable, fault-tolerant, zero downtime OLAP solution to replicate
    application relational databases (MySQL) to a columnar database (Vertica).
@@ -64,7 +65,7 @@ __HP Inc, Instant Ink Division, Vancouver WA - Senior Software Engineer__
    multiple programming languages and infrastructures. 
    
 `2012-2014`
-__HP Inc, InkJet & Web Solutions, Vancouver WA - Senior Software Engineer__
+__Senior Software Engineer__, _InkJet & Web Solutions, HP Inc_, Vancouver WA
 
 * Designed and developed customer facing web service components for HP Savings Center that enabled selecting and printing 
   more than a million coupons per month.
@@ -76,7 +77,7 @@ __HP Inc, InkJet & Web Solutions, Vancouver WA - Senior Software Engineer__
 
 
 `2009-2012`
-__Hewlett-Packard, InkJet & Web Solutions, Vancouver WA - Senior Software Engineer__
+__Senior Software Engineer__, _InkJet & Web Solutions, Hewlett-Packard_, Vancouver WA 
 
 * Designed and developed a hybrid (native & Javscript) framework that allowed legacy XML based print 
   applications to run in Webkit based embedded browser on Embedded Linux, Android and WebOS based printers.
@@ -87,7 +88,7 @@ __Hewlett-Packard, InkJet & Web Solutions, Vancouver WA - Senior Software Engine
 
 
 `2002-2009`
-__Hewlett-Packard, Digital Printing Technologies, Vancouver WA - Software Design Engineer__
+__Software Design Engineer__, _Digital Printing Technologies, Hewlett-Packard_,  Vancouver WA
 
 * Designed, developed and maintained a portable backward compatible operating system abstraction 
   layer for INTEGRITY RTOS.
@@ -101,36 +102,36 @@ __Hewlett-Packard, Digital Printing Technologies, Vancouver WA - Software Design
   throughput goals. 
 
 `1999-2002`
-__Hewlett-Packard, Embedded Software Operations Division, Palo Alto CA - Software Design Engineer__
+__Software Design Engineer__, _Embedded Software Operations Division, Hewlett-Packard_, Palo Alto CA 
 
 * Designed and developed an authentication and authorization mechanism using Java based SSL libraries for VxWorks based embedded devices.
 * Ported ChaiVM (Java Virtual Machine) and ChaiServer (Embedded Web Server) to VxWorks based embedded devices.
 * Designed and Implemented Java API layer to Qualcomm's BREW platform for mobile devices. 
 
 `1998-1999`
-__Hewlett-Packard, California Semiconductor Test Division, Santa Clara CA - Software Design Engineer__
+__Software Design Engineer__, _California Semiconductor Test Division, Hewlett-Packard_, Santa Clara CA 
 
 * Designed, developed, tested enhancements to CORBA, based client/server C++ application to test high speed memory devices.
 
 `1995-1998`
-__Hewlett-Packard (Canada), Waterloo, Ontario - Software Design Engineer__
+__Software Design Engineer__, _Hewlett-Packard (Canada)_, Waterloo, Ontario 
 
 * Designed and developed a lightweight configuration management user interface widgets for VxWorks based HP embedded devices.
 * Developed Tcl/Tk style scripting language to quickly develop new configuration screens.
 * Ported Netscape based Navio Navigator web browser to VxWorks based HP embedded devices.
 
 `1994`
-__IBM (Canada), Software Solutions Lab, Toronto, Ontario, Canada - Software Test Contractor__
+___Software Test Contractor__, _Software Solutions Lab, IBM(Canada)_, Toronto, Ontario, Canada - 
 
 * Functional Verification Testing of OSF Distributed Computing Environment port to MVS/ESA platform.
 
 `1993-1994`
-__Hewlett-Packard, Unix Development Lab, Fort Collins, Colorado - Software Contractor__
+__Software Contractor__, _Unix Development Lab, Hewlett-Packard_, Fort Collins, Colorado - 
 
 * Ported DCE based HP OpenView Software Distributor application from HP-UX to SunOS and AIX operating systems. 
 
 `1992-1993`
-__Silicon Automation Systems, Bangalore, India -- Software Engineer__
+__Software Engineer__, _Silicon Automation Systems__, Bangalore, India 
 
 * Developed a compiler front end for UDL/I hardware descripton language.
 
