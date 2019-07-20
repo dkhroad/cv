@@ -131,9 +131,9 @@ __Software Contractor__, _Unix Development Lab, Hewlett-Packard_, Fort Collins, 
 * Ported DCE based HP OpenView Software Distributor application from HP-UX to SunOS and AIX operating systems. 
 
 `1992-1993`
-__Software Engineer__, _Silicon Automation Systems__, Bangalore, India 
+__Software Engineer__, _Silicon Automation Systems_, Bangalore, India 
 
-* Developed a compiler front end for UDL/I hardware descripton language.
+* Developed a compiler front end for UDL/I hardware description language.
 
 
 ## Education
